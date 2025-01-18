@@ -4,6 +4,7 @@
 #include "Components/Combat/PawnCombatComponent.h"
 #include "Items/Weapons/Warrior_Weapon_Base.h"
 #include "WarriorDebugHelper.h"
+#include "Items/Weapons/Warrior_Hero_Weapon_Base.h"
 
 
 //-------------------------------------------------------------------------------------------------------------------

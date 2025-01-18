@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameplayTagContainer.h"
 #include "Components/PawnExtensionComponentBase.h"
+#include "Items/Weapons/Warrior_Hero_Weapon_Base.h"
 #include "PawnCombatComponent.generated.h"
 
 class AWarrior_Weapon_Base;
