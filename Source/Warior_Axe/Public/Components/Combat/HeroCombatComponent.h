@@ -7,9 +7,7 @@
 #include "HeroCombatComponent.generated.h"
 
 class AWarrior_Hero_Weapon_Base;
-/**
- * 
- */
+
 UCLASS()
 class WARIOR_AXE_API UHeroCombatComponent : public UPawnCombatComponent
 {
